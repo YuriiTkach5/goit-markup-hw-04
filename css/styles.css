@@ -116,6 +116,7 @@ color: #2E2F42;
 display: flex;
 margin-left: 76px;
 gap: 40px;
+transition: color 300ms linear;
 }
 
 .header-web-menu{
