@@ -114,7 +114,6 @@ color: #2E2F42;
 
 .header-web-item {
 display: flex;
-margin-left: 76px;
 gap: 40px;
 transition: color 300ms linear;
 }
@@ -138,13 +137,12 @@ color: #404bbf;
 
 .address {
 font-style: normal;
+margin-left: auto;
 }
 
 .header-address {
 display: flex;
 gap: 40px;
-padding-right: 15px;
-margin-left: 332px;
 }
 
 .header-address {
@@ -231,7 +229,6 @@ padding-bottom: 120px;
 
 .stratech-list {
 display: flex;
-margin-top: 120px;
 gap: 24px;
 }
 
@@ -254,7 +251,6 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
-padding-bottom: 120px;
 }
 
 /*---------What---------*/
@@ -266,7 +262,6 @@ padding-bottom: 120px;
 .what-img {
 display: flex;
 gap: 24px;
-padding-bottom: 120px;
 }
 
 .what-title {
@@ -372,6 +367,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--btn-background);
+width: 264px;
 }
 
 /*---------portfolio-btn--------*/
